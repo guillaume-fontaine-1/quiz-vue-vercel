@@ -6,7 +6,7 @@
         {{ option.text }}
       </button>
     </div>
-    <div v-if="feedback" class="mt-2 text-green-500">{{ feedback }}</div>
+    <div v-if="feedback" class="mt-2 text-green-500 text-center">{{ feedback }}</div>
   </div>
 </template>
 
