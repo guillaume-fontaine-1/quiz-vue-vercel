@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Quelle est la capitale de l'Espagne ?",
+    "options": [
+      { "text": "Madrid", "isCorrect": true },
+      { "text": "Barcelone", "isCorrect": false },
+      { "text": "Séville", "isCorrect": false },
+      { "text": "Valence", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand pays d'Afrique en termes de superficie ?",
+    "options": [
+      { "text": "Algérie", "isCorrect": true },
+      { "text": "République démocratique du Congo", "isCorrect": false },
+      { "text": "Soudan", "isCorrect": false },
+      { "text": "Libye", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le symbole chimique de l'argent ?",
+    "options": [
+      { "text": "Ag", "isCorrect": true },
+      { "text": "Au", "isCorrect": false },
+      { "text": "Cu", "isCorrect": false },
+      { "text": "Fe", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Qui a écrit 'Le Petit Prince' ?",
+    "options": [
+      { "text": "Antoine de Saint-Exupéry", "isCorrect": true },
+      { "text": "Jules Verne", "isCorrect": false },
+      { "text": "Victor Hugo", "isCorrect": false },
+      { "text": "Gustave Flaubert", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quelle est la plus grande forêt tropicale du monde ?",
+    "options": [
+      { "text": "Amazonie", "isCorrect": true },
+      { "text": "Congo", "isCorrect": false },
+      { "text": "Borneo", "isCorrect": false },
+      { "text": "Sumatra", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand pays d'Asie en termes de superficie ?",
+    "options": [
+      { "text": "Chine", "isCorrect": true },
+      { "text": "Inde", "isCorrect": false },
+      { "text": "Indonésie", "isCorrect": false },
+      { "text": "Japon", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus petit pays d'Europe ?",
+    "options": [
+      { "text": "Vatican", "isCorrect": true },
+      { "text": "Monaco", "isCorrect": false },
+      { "text": "Liechtenstein", "isCorrect": false },
+      { "text": "Saint-Marin", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand désert de sable du monde ?",
+    "options": [
+      { "text": "Sahara", "isCorrect": true },
+      { "text": "Arabie", "isCorrect": false },
+      { "text": "Gobi", "isCorrect": false },
+      { "text": "Kalahari", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus long tunnel du monde ?",
+    "options": [
+      { "text": "Tunnel de base du Saint-Gothard", "isCorrect": true },
+      { "text": "Tunnel de Seikan", "isCorrect": false },
+      { "text": "Tunnel de base du Lötschberg", "isCorrect": false },
+      { "text": "Tunnel de la Manche", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand lac d'eau douce du monde ?",
+    "options": [
+      { "text": "Lac Supérieur", "isCorrect": true },
+      { "text": "Lac Victoria", "isCorrect": false },
+      { "text": "Lac Huron", "isCorrect": false },
+      { "text": "Lac Michigan", "isCorrect": false }
+    ]
+  }
+]

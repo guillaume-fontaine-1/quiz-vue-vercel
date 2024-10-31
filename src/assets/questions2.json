@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Quelle est la capitale de l'Italie ?",
+    "options": [
+      { "text": "Rome", "isCorrect": true },
+      { "text": "Milan", "isCorrect": false },
+      { "text": "Venise", "isCorrect": false },
+      { "text": "Florence", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand continent du monde ?",
+    "options": [
+      { "text": "Afrique", "isCorrect": false },
+      { "text": "Asie", "isCorrect": true },
+      { "text": "Amérique du Nord", "isCorrect": false },
+      { "text": "Europe", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le symbole chimique de l'or ?",
+    "options": [
+      { "text": "Au", "isCorrect": true },
+      { "text": "Ag", "isCorrect": false },
+      { "text": "Fe", "isCorrect": false },
+      { "text": "Cu", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Qui a écrit '1984' ?",
+    "options": [
+      { "text": "George Orwell", "isCorrect": true },
+      { "text": "Aldous Huxley", "isCorrect": false },
+      { "text": "Ray Bradbury", "isCorrect": false },
+      { "text": "J.R.R. Tolkien", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quelle est la plus grande île du monde ?",
+    "options": [
+      { "text": "Groenland", "isCorrect": true },
+      { "text": "Madagascar", "isCorrect": false },
+      { "text": "Borneo", "isCorrect": false },
+      { "text": "Nouvelle-Guinée", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand pays d'Amérique du Sud en termes de superficie ?",
+    "options": [
+      { "text": "Brésil", "isCorrect": true },
+      { "text": "Argentine", "isCorrect": false },
+      { "text": "Pérou", "isCorrect": false },
+      { "text": "Colombie", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus petit océan du monde ?",
+    "options": [
+      { "text": "Océan Arctique", "isCorrect": true },
+      { "text": "Océan Atlantique", "isCorrect": false },
+      { "text": "Océan Indien", "isCorrect": false },
+      { "text": "Océan Pacifique", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand volcan du monde ?",
+    "options": [
+      { "text": "Mauna Loa", "isCorrect": true },
+      { "text": "Kilimandjaro", "isCorrect": false },
+      { "text": "Etna", "isCorrect": false },
+      { "text": "Vésuve", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus long pont du monde ?",
+    "options": [
+      { "text": "Pont de Danyang-Kunshan", "isCorrect": true },
+      { "text": "Pont de Tianjin", "isCorrect": false },
+      { "text": "Pont de Weinan Weihe", "isCorrect": false },
+      { "text": "Pont de Cangzhou Yangcun", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand lac salé du monde ?",
+    "options": [
+      { "text": "Mer Caspienne", "isCorrect": true },
+      { "text": "Grand Lac Salé", "isCorrect": false },
+      { "text": "Mer Morte", "isCorrect": false },
+      { "text": "Lac Urmia", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Quelle est la capitale de la France ?",
+    "options": [
+      { "text": "Paris", "isCorrect": true },
+      { "text": "Londres", "isCorrect": false },
+      { "text": "Berlin", "isCorrect": false },
+      { "text": "Madrid", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand océan du monde ?",
+    "options": [
+      { "text": "Océan Atlantique", "isCorrect": false },
+      { "text": "Océan Indien", "isCorrect": false },
+      { "text": "Océan Arctique", "isCorrect": false },
+      { "text": "Océan Pacifique", "isCorrect": true }
+    ]
+  },
+  {
+    "text": "Quel est le symbole chimique de l'eau ?",
+    "options": [
+      { "text": "H2O", "isCorrect": true },
+      { "text": "CO2", "isCorrect": false },
+      { "text": "O2", "isCorrect": false },
+      { "text": "H2", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Qui a écrit 'Les Misérables' ?",
+    "options": [
+      { "text": "Victor Hugo", "isCorrect": true },
+      { "text": "Charles Dickens", "isCorrect": false },
+      { "text": "Leo Tolstoy", "isCorrect": false },
+      { "text": "Mark Twain", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quelle est la plus haute montagne du monde ?",
+    "options": [
+      { "text": "Mont Everest", "isCorrect": true },
+      { "text": "Mont Kilimandjaro", "isCorrect": false },
+      { "text": "Mont Blanc", "isCorrect": false },
+      { "text": "Mont Fuji", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand pays du monde en termes de superficie ?",
+    "options": [
+      { "text": "Russie", "isCorrect": true },
+      { "text": "Canada", "isCorrect": false },
+      { "text": "Chine", "isCorrect": false },
+      { "text": "États-Unis", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus petit pays du monde ?",
+    "options": [
+      { "text": "Vatican", "isCorrect": true },
+      { "text": "Monaco", "isCorrect": false },
+      { "text": "Liechtenstein", "isCorrect": false },
+      { "text": "Saint-Marin", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand désert du monde ?",
+    "options": [
+      { "text": "Sahara", "isCorrect": false },
+      { "text": "Antarctique", "isCorrect": true },
+      { "text": "Gobi", "isCorrect": false },
+      { "text": "Arabie", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus long fleuve du monde ?",
+    "options": [
+      { "text": "Nil", "isCorrect": false },
+      { "text": "Amazone", "isCorrect": true },
+      { "text": "Yangtsé", "isCorrect": false },
+      { "text": "Mississippi", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand lac du monde ?",
+    "options": [
+      { "text": "Lac Baïkal", "isCorrect": false },
+      { "text": "Lac Supérieur", "isCorrect": false },
+      { "text": "Lac Victoria", "isCorrect": false },
+      { "text": "Mer Caspienne", "isCorrect": true }
+    ]
+  }
+]

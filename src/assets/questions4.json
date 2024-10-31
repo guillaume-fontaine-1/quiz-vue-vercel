@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Quelle est la capitale de l'Allemagne ?",
+    "options": [
+      { "text": "Berlin", "isCorrect": true },
+      { "text": "Munich", "isCorrect": false },
+      { "text": "Hambourg", "isCorrect": false },
+      { "text": "Francfort", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand pays d'Amérique du Nord en termes de superficie ?",
+    "options": [
+      { "text": "Canada", "isCorrect": true },
+      { "text": "États-Unis", "isCorrect": false },
+      { "text": "Mexique", "isCorrect": false },
+      { "text": "Groenland", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le symbole chimique du cuivre ?",
+    "options": [
+      { "text": "Cu", "isCorrect": true },
+      { "text": "Fe", "isCorrect": false },
+      { "text": "Ag", "isCorrect": false },
+      { "text": "Au", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Qui a écrit 'Harry Potter' ?",
+    "options": [
+      { "text": "J.K. Rowling", "isCorrect": true },
+      { "text": "J.R.R. Tolkien", "isCorrect": false },
+      { "text": "C.S. Lewis", "isCorrect": false },
+      { "text": "George R.R. Martin", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quelle est la plus grande barrière de corail du monde ?",
+    "options": [
+      { "text": "Grande Barrière de Corail", "isCorrect": true },
+      { "text": "Barrière de Corail de la Mer Rouge", "isCorrect": false },
+      { "text": "Barrière de Corail de la Mer des Caraïbes", "isCorrect": false },
+      { "text": "Barrière de Corail de la Mer de Chine", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand pays d'Océanie en termes de superficie ?",
+    "options": [
+      { "text": "Australie", "isCorrect": true },
+      { "text": "Nouvelle-Zélande", "isCorrect": false },
+      { "text": "Papouasie-Nouvelle-Guinée", "isCorrect": false },
+      { "text": "Indonésie", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus petit pays d'Asie ?",
+    "options": [
+      { "text": "Maldives", "isCorrect": true },
+      { "text": "Singapour", "isCorrect": false },
+      { "text": "Bahreïn", "isCorrect": false },
+      { "text": "Bhoutan", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand désert de sel du monde ?",
+    "options": [
+      { "text": "Salar d'Uyuni", "isCorrect": true },
+      { "text": "Salar de Atacama", "isCorrect": false },
+      { "text": "Salar de Coipasa", "isCorrect": false },
+      { "text": "Salar de Arizaro", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus long pont suspendu du monde ?",
+    "options": [
+      { "text": "Pont Akashi Kaikyo", "isCorrect": true },
+      { "text": "Pont de Verrazano-Narrows", "isCorrect": false },
+      { "text": "Pont du détroit de Messine", "isCorrect": false },
+      { "text": "Pont de la baie de Hangzhou", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand lac d'Amérique du Nord ?",
+    "options": [
+      { "text": "Lac Supérieur", "isCorrect": true },
+      { "text": "Lac Huron", "isCorrect": false },
+      { "text": "Lac Michigan", "isCorrect": false },
+      { "text": "Lac Ontario", "isCorrect": false }
+    ]
+  }
+]

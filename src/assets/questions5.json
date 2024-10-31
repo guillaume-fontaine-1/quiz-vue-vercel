@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Quelle est la capitale du Japon ?",
+    "options": [
+      { "text": "Tokyo", "isCorrect": true },
+      { "text": "Kyoto", "isCorrect": false },
+      { "text": "Osaka", "isCorrect": false },
+      { "text": "Hiroshima", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand pays d'Europe en termes de superficie ?",
+    "options": [
+      { "text": "Russie", "isCorrect": true },
+      { "text": "Ukraine", "isCorrect": false },
+      { "text": "France", "isCorrect": false },
+      { "text": "Espagne", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le symbole chimique du fer ?",
+    "options": [
+      { "text": "Fe", "isCorrect": true },
+      { "text": "Cu", "isCorrect": false },
+      { "text": "Ag", "isCorrect": false },
+      { "text": "Au", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Qui a écrit 'Le Seigneur des Anneaux' ?",
+    "options": [
+      { "text": "J.R.R. Tolkien", "isCorrect": true },
+      { "text": "C.S. Lewis", "isCorrect": false },
+      { "text": "George R.R. Martin", "isCorrect": false },
+      { "text": "J.K. Rowling", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quelle est la plus grande chaîne de montagnes du monde ?",
+    "options": [
+      { "text": "Himalaya", "isCorrect": true },
+      { "text": "Andes", "isCorrect": false },
+      { "text": "Rockies", "isCorrect": false },
+      { "text": "Alpes", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand pays d'Amérique centrale en termes de superficie ?",
+    "options": [
+      { "text": "Nicaragua", "isCorrect": true },
+      { "text": "Guatemala", "isCorrect": false },
+      { "text": "Honduras", "isCorrect": false },
+      { "text": "Costa Rica", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus petit pays d'Europe ?",
+    "options": [
+      { "text": "Vatican", "isCorrect": true },
+      { "text": "Monaco", "isCorrect": false },
+      { "text": "Liechtenstein", "isCorrect": false },
+      { "text": "Saint-Marin", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand désert de glace du monde ?",
+    "options": [
+      { "text": "Antarctique", "isCorrect": true },
+      { "text": "Groenland", "isCorrect": false },
+      { "text": "Arctique", "isCorrect": false },
+      { "text": "Sibérie", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus long tunnel sous-marin du monde ?",
+    "options": [
+      { "text": "Tunnel de la Manche", "isCorrect": true },
+      { "text": "Tunnel de Seikan", "isCorrect": false },
+      { "text": "Tunnel de base du Saint-Gothard", "isCorrect": false },
+      { "text": "Tunnel de la baie de Hong Kong", "isCorrect": false }
+    ]
+  },
+  {
+    "text": "Quel est le plus grand lac d'Afrique ?",
+    "options": [
+      { "text": "Lac Victoria", "isCorrect": true },
+      { "text": "Lac Tanganyika", "isCorrect": false },
+      { "text": "Lac Malawi", "isCorrect": false },
+      { "text": "Lac Turkana", "isCorrect": false }
+    ]
+  }
+]
